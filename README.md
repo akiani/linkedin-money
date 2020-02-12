@@ -1,4 +1,4 @@
-# How to literally make money for your LinkedIn friends using Python and California Unclaimed Property records
+California Unclaimed Property Record Search for LinkedIn Connections
 
 Please see [this Medium post](https://medium.com/p/68ed97227d33) describing the script in this repositoy.
 
